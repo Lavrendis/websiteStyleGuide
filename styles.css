@@ -1,0 +1,163 @@
+
+
+
+
+h1 {
+    text-align: right;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    padding-right: 8%;
+    
+}
+
+h2 {
+    padding-left: 20px;
+    font-family: 'Roboto', sans;
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container1 {
+    border:3px solid black;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 2%;  
+    border-radius: 30%;
+
+}
+
+.container2 {
+    border:3px solid black;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 2%;  
+    border-radius: 30%;
+    text-align: center;
+
+}
+
+.container3 {
+    border:3px solid black;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 2%;  
+    border-radius: 30%;
+    text-align: center;
+
+}
+
+/*Colours*/
+
+
+.color-panel {
+    display: inline-table;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    text-align: center;
+    font-family: 'Abril fatface', sans-serif;
+    font-size: 25px;
+    border-radius: 100%;
+    
+}
+
+.black {
+    background-color: #000000;
+    color: #ffffff;
+
+}
+
+.white {
+    border: 1px solid black;
+    color:black;
+    
+}
+
+.yellow {
+    background-color:yellow;
+    color: black;
+    
+    
+}
+
+.teal-green  {
+    background-color:teal;
+    color:black;
+    
+}
+
+
+/*Typology*/
+
+.font-panel {
+    font-size: 22px;
+    width: 500px;
+    margin-left: 20px;
+    display: inline-block;
+    
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.Abril fatface { 
+
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
+.font-title {
+    text-decoration: underline;
+}
+
+.font-bold-style {
+    font-weight: bold;
+}
+
+.font-italic-style {
+    font-style: italic;
+}
+
+/*Text Styles*/
+
+.H1-style {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.H2-style {
+    font-family: 'Roboto', cursive;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.P-style {
+    font-family: 'Abri Fatface', sans-serif;
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.text-style-info {
+    font-family: 'Abri fatface', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.style-panel {
+    display: inline-block;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
